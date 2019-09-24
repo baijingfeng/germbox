@@ -9,7 +9,7 @@
   "bin": {
     "germbox": "bin/germbox"
   },
-  "author": "bai jingfeng",
+  "author": "bai.jingfeng",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
